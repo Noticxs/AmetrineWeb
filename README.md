@@ -16,9 +16,9 @@ use the software they want and or need.
 
 | New software we are working on    | Estimated time of release | Delayed or On Time    | Cross-platform functionality |
 | -------- | ------- | -------- | ------- |
-| Ametrine Anti-Virus | 12 December 2024     | On Time  | Cross-Platform   |
-| Ametrine Music   | 12 January 2025   | On Time  | Cross-Platform   |
-| Ametrine VPN  | 26 February 2025   | On Time  | Cross-Platform   |
+| Ametrine Anti-Virus | 12 December 2024     | Delayed  | Cross-Platform   |
+| Ametrine Music   | 12 January 2025   | Delayed  | Cross-Platform   |
+| Ametrine VPN  | 26 February 2025   | Delayed  | Cross-Platform   |
 
 
 </table>
