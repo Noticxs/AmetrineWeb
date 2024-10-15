@@ -21,7 +21,7 @@ use the software they want and or need.
 | Ametrine Music  | 26 February 2025   | On-Time | Windows 10/11, Linux, Android |
 
 
-## What we are planning to make next
+## What we are planning to make next ( Hopefully )
 
 | New software we are working on    | Estimated time of release | Delayed or On Time    | Platform availability |
 | -------- | ------- | -------- | ------- |
