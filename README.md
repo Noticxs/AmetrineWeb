@@ -14,12 +14,16 @@ use the software they want and or need.
 
 ## What are we currently working on
 
-| New software we are working on    | Estimated time of release | Delayed or On Time    | Cross-platform functionality |
+| New software we are working on    | Estimated time of release | Delayed or On Time    | Platform availability |
 | -------- | ------- | -------- | ------- |
-| Ametrine's Tooler  | 20 November 2024   | On-time  | Windows - Linux   |
-| Ametrine Anti-Virus | 12 December 2024     | Delayed  | Cross-Platform   |
-| Ametrine Music   | 12 January 2025   | Delayed  | Cross-Platform   |
-| Ametrine VPN  | 26 February 2025   | Delayed  | Cross-Platform   |
+| Ametrine's Tooler | 10 December 2024     | On-Time  | Windows 10/11, Linux |
+| Ametrine's File Folio   | 10 December 2024   | On-Time  | Windows 10/11, Linux |
+| Ametrine Music  | 26 February 2025   | On-Time | Windows 10/11, Linux, Android |
 
 
-</table>
+## What we are planning to make next
+
+| New software we are working on    | Estimated time of release | Delayed or On Time    | Platform availability |
+| -------- | ------- | -------- | ------- |
+| Ametrine Anti-Virus | N/A     | N/A  | Windows 10/11, Linux   |
+| Ametrine VPN  | N/A   | N/A  | Windows 10/11, Linux  |
