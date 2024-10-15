@@ -18,7 +18,7 @@ use the software they want and or need.
 | -------- | ------- | -------- | ------- |
 | Ametrine's Tooler | 10 December 2024     | On-Time  | Windows 10/11, Linux |
 | Ametrine's File Folio   | 10 December 2024   | On-Time  | Windows 10/11, Linux |
-| Ametrine Music  | 26 February 2025   | On-Time | Windows 10/11, Linux, Android |
+| Ametrine Music  | 26 February 2025   | On-Time | Windows 10/11, Linux |
 
 
 ## What we are planning to make next ( Hopefully )
