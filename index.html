@@ -1,13 +1,75 @@
-<html>
-  <head>
-    <title>Ametrine Company</title>
-  </head>
-  <body>
-    <center>
-      <h1>Welcome to Ametrine</h1>
-    </center>
-    <p>
-      Welcome to Ametrine the best software company on earth
-    </p>
-  </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ametrine Software</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Ametrine</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <section id="home" class="hero">
+            <div class="hero-text">
+                <h1>Free Software for Everyone</h1>
+                <p>Empowering you with open-source solutions.</p>
+                <a href="#about" class="btn">Learn More</a>
+            </div>
+        </section>
+    </header>
+
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About Ametrine</h2>
+            <p>Ametrine is dedicated to providing high-quality, free software to everyone. Our mission is to create open-source tools that empower individuals and businesses worldwide, regardless of their resources.</p>
+        </div>
+    </section>
+
+    <section id="services" class="section">
+        <div class="container">
+            <h2>Our Services</h2>
+            <div class="services-grid">
+                <div class="service">
+                    <h3>Software Development</h3>
+                    <p>We build intuitive, easy-to-use software for a variety of industries.</p>
+                </div>
+                <div class="service">
+                    <h3>Open-Source Projects</h3>
+                    <p>Our repository of open-source projects is available for free to anyone.</p>
+                </div>
+                <div class="service">
+                    <h3>Community Support</h3>
+                    <p>We offer dedicated community support to help you with any of our tools.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <form action="#" class="contact-form">
+                <input type="text" placeholder="Your Name" required>
+                <input type="email" placeholder="Your Email" required>
+                <textarea placeholder="Your Message" required></textarea>
+                <button type="submit" class="btn">Send Message</button>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Ametrine Software. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
 </html>
